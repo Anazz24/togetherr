@@ -1,0 +1,7 @@
+{
+  "name": "togetherr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
